@@ -1,0 +1,151 @@
+{
+  "studio": {
+    "name": "NELLY",
+    "accent": "PUB",
+    "label": "INDEPENDENT GAME STUDIO",
+    "description": "Nelly Pub is an independent game studio in Vietnam creating approachable mobile puzzle games with satisfying interactions and visual clarity.",
+    "email": "nqtrung1002@gmail.com"
+  },
+  "navigation": [
+    {
+      "label": "Games",
+      "href": "#games"
+    },
+    {
+      "label": "Studio",
+      "href": "#studio"
+    },
+    {
+      "label": "Contact",
+      "href": "#contact"
+    },
+    {
+      "label": "Privacy",
+      "href": "privacy.html"
+    }
+  ],
+  "hero": {
+    "kicker": "INDEPENDENT / MOBILE / PUZZLE",
+    "title": [
+      "SMALL TEAM.",
+      "BIG PLAY."
+    ],
+    "cta": {
+      "label": "Explore our games",
+      "href": "#games"
+    },
+    "image": "assets/games.png",
+    "imageAlt": "Abstract artwork representing a playful game world"
+  },
+  "games": [
+    {
+      "title": "Jelly Sort",
+      "subtitle": "Jelly Sort: Satisfying Puzzle",
+      "status": "MOBILE PUZZLE",
+      "year": "2026",
+      "description": "Sort colorful blocks, plan each move and clear the board.",
+      "image": "assets/icon_jelly_sort_satisfying_puzzle.png",
+      "imageAlt": "Jelly Sort game artwork",
+      "featured": true,
+      "slug": "jelly-sort",
+      "genre": "Puzzle",
+      "googlePlay": "",
+      "appStore": "",
+      "sections": [
+        {
+          "title": "What is Jelly Sort?",
+          "paragraphs": [
+            "Sort colorful blocks, plan each move and clear the board."
+          ]
+        }
+      ]
+    },{
+      "title": "Jelly Sort",
+      "subtitle": "Jelly Sort: Satisfying Puzzle",
+      "status": "MOBILE PUZZLE",
+      "year": "2026",
+      "description": "Sort colorful blocks, plan each move and clear the board.",
+      "image": "assets/icon_jelly_sort_satisfying_puzzle.png",
+      "imageAlt": "Jelly Sort game artwork",
+      "featured": false,
+      "slug": "jelly-sort",
+      "genre": "Puzzle",
+      "googlePlay": "",
+      "appStore": "",
+      "sections": [
+        {
+          "title": "What is Jelly Sort?",
+          "paragraphs": [
+            "Sort colorful blocks, plan each move and clear the board."
+          ]
+        }
+      ]
+    },{
+      "title": "Jelly Sort",
+      "subtitle": "Jelly Sort: Satisfying Puzzle",
+      "status": "MOBILE PUZZLE",
+      "year": "2026",
+      "description": "Sort colorful blocks, plan each move and clear the board.",
+      "image": "assets/icon_jelly_sort_satisfying_puzzle.png",
+      "imageAlt": "Jelly Sort game artwork",
+      "featured": false,
+      "slug": "jelly-sort",
+      "genre": "Puzzle",
+      "googlePlay": "",
+      "appStore": "",
+      "sections": [
+        {
+          "title": "What is Jelly Sort?",
+          "paragraphs": [
+            "Sort colorful blocks, plan each move and clear the board."
+          ]
+        }
+      ]
+    }
+  ],
+  "about": {
+    "kicker": "ABOUT THE STUDIO",
+    "title": [
+      "BUILT WITH",
+      "PURPOSE."
+    ],
+    "paragraphs": [
+      "We are a small independent studio creating approachable mobile puzzle games with satisfying interactions and strong visual clarity.",
+      "Our process is simple: find one playful idea, make it feel great, then remove everything that gets in the way."
+    ]
+  },
+  "values": [
+    {
+      "number": "01",
+      "title": "SIMPLE",
+      "text": "Easy to understand. Rewarding to master."
+    },
+    {
+      "number": "02",
+      "title": "TACTILE",
+      "text": "Every tap, sort and movement should feel satisfying."
+    },
+    {
+      "number": "03",
+      "title": "BOLD",
+      "text": "Small team, focused decisions and no small ambition."
+    }
+  ],
+  "contact": {
+    "kicker": "WORK WITH US",
+    "title": [
+      "LET'S MAKE",
+      "SOMETHING."
+    ],
+    "body": "Publishing, partnership or just a good game conversation — our inbox is open.",
+    "buttonLabel": "Start a conversation"
+  },
+  "footer": {
+    "copyright": "© 2026 Nelly Pub. All rights reserved."
+  },
+  "site": {
+    "url": "https://nellypubb.github.io",
+    "logo": "assets/logo_pub.png",
+    "locationLabel": "NELLY / VIETNAM"
+  }
+}

@@ -1,0 +1,36 @@
+# Website files and editable sources are intentionally tracked.
+# Keep HTML, CSS, JS, assets/, data/, SEO-HUONG-DAN.md,
+# sitemap.xml, robots.txt, CNAME and .nojekyll in the repository.
+
+# Local editor settings
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local dependencies
+node_modules/
+
+# Credentials and machine-specific configuration
+.env
+.env.*
+!.env.example
+
+# Temporary files and logs
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo

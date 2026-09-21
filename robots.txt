@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nellypubb.github.io/sitemap.xml
